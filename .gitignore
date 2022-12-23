@@ -6,6 +6,7 @@ __pycache__/
 # C extensions
 *.so
 
+
 # Distribution / packaging
 .Python
 build/
@@ -130,3 +131,4 @@ dmypy.json
 .DS_Store
 .idea/
 ./django_static
+/frontend_react/node_modules/
